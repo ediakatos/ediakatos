@@ -12,7 +12,7 @@ I'm a **curious maker** who loves blending the worlds of technology, problem-sol
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Working
 - **Cloud & DevOps**: Because shipping code that actually runs in production is the real magic trick.  
 - **Data & Security Fusion**: Building data pipelines that are secure enough to keep hackers away (no espresso for them!).  
 - **Map Nerd Stuff**: Exploring geospatial data—like treasure maps, but for humanitarian good (and maybe a bit of fun).
